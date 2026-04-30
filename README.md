@@ -13,7 +13,15 @@ This project reinforces prior experience supporting users and systems by applyin
 - Command Prompt
 - TryHackMe platform
 
+## Active Directory Console
+![ADUC](screenshots./Active-directory-users-and-computer-console.png)
+
 ---
+## Organizational Unit (OU) Management
+### Scenario: Creating an OU for interns
+- created a new organizational unit (OU) to organize user accounts
+- demonstrated how OUs help structure domain environments
+![Create OU](screenshots./create-OU-interns.png)
 
 ## User Account Management
 ### Scenario: Password Reset
