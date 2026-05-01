@@ -23,6 +23,28 @@ This project reinforces prior experience supporting users and systems by applyin
 - demonstrated how OUs help structure domain environments
 ![Create OU](Screenshots./create-OU-interns.png)
 
+### Scenario: Cleaningup users in OU
+- Reviewed user accounts within the Sales Organizational unit
+- Identified unnecessary or inactive users
+- Removed two users to maintain proper accesss control
+
+**Before Cleanup:**
+![Before Cleanup](Screenshots./sales-OU-users-before-cleanup.png)
+
+**After Cleanup**
+![After Cleanup](Screenshots./sales-OU-users-after-cleanup.png)
+
+### Scenario: Remooving Deprecated Department (R&D OU)
+-Identified an outdated organizational unit following company restructuring
+-Removed the Research and Development OU you to maintain an accurate directory structure
+-Ensured the environment reflects current business operations
+
+**Before Deletion**
+![Before Deletion](Screenshots./rd-OU-before-deletion.png)
+
+**After Deletion**
+![After Deletion](Screenshots./rd-OU-after-deletion.png)
+
 ## User Account Management
 ### Scenario: Password Reset
 - Simulated resetting a user password
