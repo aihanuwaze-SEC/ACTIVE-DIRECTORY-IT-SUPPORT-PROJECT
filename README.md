@@ -46,6 +46,18 @@ This project reinforces prior experience supporting users and systems by applyin
 ![After Deletion](Screenshots./rd-OU-after-deletion.png)
 
 ## User Account Management
+
+### 🔐 Scenario: Delegating Password Reset Permissions
+- Assigned delegated permissions to user **Philip** to reset passwords
+- Used the **Delegation of Control Wizard** in Active Directory
+- Selected specific task: *Reset user passwords and force password change at next logon*
+
+**Delegation Setup:**
+
+![Delegation - Select User](Screenshots/delegation-select-user-philip.png)
+
+![Delegation - Assign Permissions](Screenshots/delegation-password-reset-permissions.png)
+
 ### Scenario: Password Reset
 - Simulated resetting a user password
 - Ensured user could log back into the system
