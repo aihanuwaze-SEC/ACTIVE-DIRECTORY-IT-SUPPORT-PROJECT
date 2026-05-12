@@ -56,6 +56,7 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ![Delegation - Select User](Screenshots./delegation-select-user-philip.png)
 
+
 ![Delegation - Assign Permissions](Screenshots./delegation-password-reset-permissions.png)
 
 ### 🔑 Scenario: Password Reset & Enforcement
