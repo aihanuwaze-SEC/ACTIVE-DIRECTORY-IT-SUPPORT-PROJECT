@@ -64,11 +64,11 @@ This project reinforces prior experience supporting users and systems by applyin
 - Verified system prompt requiring password update
 
 #### Password Reset Execution
-**Password Reset Command:**
+**Password Reset Command**
 ![Password Reset Command](Screenshots./philip-password-reset-command.png)
 **Force Password Change Command**
 ![Force Password Change Command](Screenshots./force-password-change-command.png)
-
+**Password Change Prompt**
 ![Password Change Prompt](Screenshots./force-password-change-prompt.png)
 
 ### Scenario: Account Lockout
