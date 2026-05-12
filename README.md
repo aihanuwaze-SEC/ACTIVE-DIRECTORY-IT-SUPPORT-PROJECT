@@ -54,9 +54,9 @@ This project reinforces prior experience supporting users and systems by applyin
 
 **Delegation Setup:**
 
-![Delegation - Select User](Screenshots/delegation-select-user-philip.png)
+![Delegation - Select User](Screenshots./delegation-select-user-philip.png)
 
-![Delegation - Assign Permissions](Screenshots/delegation-password-reset-permissions.png)
+![Delegation - Assign Permissions](Screenshots./delegation-password-reset-permissions.png)
 
 ### Scenario: Password Reset
 - Simulated resetting a user password
