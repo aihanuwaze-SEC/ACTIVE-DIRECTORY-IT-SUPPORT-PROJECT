@@ -52,11 +52,10 @@ This project reinforces prior experience supporting users and systems by applyin
 - Used the **Delegation of Control Wizard** in Active Directory
 - Selected specific task: *Reset user passwords and force password change at next logon*
 
-**Delegation Setup:**
-
+#### Delegation Setup:**
+**Delegation - Select User**
 ![Delegation - Select User](Screenshots./delegation-select-user-philip.png)
-
-
+**Delegation - Assign Permissions**
 ![Delegation - Assign Permissions](Screenshots./delegation-password-reset-permissions.png)
 
 ### 🔑 Scenario: Password Reset & Enforcement
