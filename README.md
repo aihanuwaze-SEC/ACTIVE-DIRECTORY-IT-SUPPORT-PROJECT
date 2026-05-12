@@ -58,9 +58,18 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ![Delegation - Assign Permissions](Screenshots./delegation-password-reset-permissions.png)
 
-### Scenario: Password Reset
-- Simulated resetting a user password
-- Ensured user could log back into the system
+### 🔑 Scenario: Password Reset & Enforcement
+- Reset user **Sophie’s** password using delegated account (**Philip**)
+- Forced password change at next login for security compliance
+- Verified system prompt requiring password update
+
+**Password Reset Execution:**
+
+![Password Reset Command](Screenshots./philip-password-reset-command.png)
+
+![Force Password Change Command](Screenshots./force-password-change-command.png)
+
+![Password Change Prompt](Screenshots./force-password-change-prompt.png)
 
 ### Scenario: Account Lockout
 - Identified locked account
