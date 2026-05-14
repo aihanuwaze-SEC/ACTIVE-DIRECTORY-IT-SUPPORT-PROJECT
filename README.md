@@ -98,6 +98,10 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ## Computer (Machine) Management
 ### 🖥️ Scenario: Viewing Domain Computers
+- Disabled a computer account in Active Directory
+- Demonstrated how inactive or compromised devices can be restricted from domain access
+- Re-enabled the computer account to restore authentication access
+- 
 #### Domain Computers in Active Directory
 ![](Screenshots./domain-computers-overview.png)
 
