@@ -72,10 +72,22 @@ This project reinforces prior experience supporting users and systems by applyin
 ![Password Change Prompt](Screenshots./force-password-change-prompt.png)
 
 ### Scenario: Account Lockout
-- Identified locked account
-- Unlocked user account to restore access
+- Simulated multiple failed login attempts
+- Triggered account lockout based on Group Policy settings
+- Observed system lockout message during login attempt
 
----
+**Account Lockout Evidence:**
+![Account Lockout Error](Screenshots./account-lockout-error.png)
+
+### 🔓 Scenario: Account Unlock
+- Identified locked user account in Active Directory Users and Computers (ADUC)
+- Unlocked account via user properties
+- Restored access successfully
+
+****Account Lockout Evidence**
+![**Account Lockout Evidence:**](Screenshots./account-locked-properties.png)
+**Account Unlocked**
+![Account Unlocked](Screenshots./account-unlock-after.png)
 
 ## Group Management
 ### Scenario: Access to Shared Resources
@@ -85,11 +97,17 @@ This project reinforces prior experience supporting users and systems by applyin
 ---
 
 ## Computer (Machine) Management
-### Scenario: Domain-Joined Systems
-- Identified machine accounts (e.g., PC01, DC01$)
-- Understood how computers are managed within a domain
+### 🖥️ Scenario: Viewing Domain Computers
+#### Domain Computers in Active Directory
+![](Screenshots./domain-computers-overview.png)
 
----
+### 🏢 Scenario: Organizing Computer Objects
+#### Moving Computer into Correct OU
+![](Screenshots./computer-ou-organization.png)
+
+### 🚫 Scenario: Disabling Inactive Computer Account
+#### Disable Computer Account
+![](Screenshots./disable-computer-account.png)
 
 ## Troubleshooting Scenarios
 - User unable to log in
