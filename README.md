@@ -119,6 +119,19 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ![](Screenshots./account-lockout-error.png)
 
+### 🛡️ Scenario: Restricting Control Panel Access
+- Created and configured a dedicated Group Policy Object (GPO) to restrict Control Panel access
+- Applied the policy to departmental Organizational Units (OUs)
+- Prevented non-IT users from modifying workstation settings through centralized policy enforcement
+
+#### Policy Configuration
+
+![](Screenshots./restrict-control-panel-policy-enabled.png)
+
+#### GPO Linked to Organizational Units
+
+![](Screenshots./restrict-control-panel-gpo-linked.png)
+
 - Assigned users to appropriate groups
 - Demonstrated how group membership controls access
 
