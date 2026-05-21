@@ -91,6 +91,20 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ## Group Management
 ### Scenario: Access to Shared Resources
+- Configured password policy settings using Group Policy
+- Reduced maximum password age from 42 to 35 days
+- Increased minimum password length to 12 characters
+- Enforced password complexity requirements
+- Maintained password history settings to prevent password reuse
+
+#### Password Policy Before Changes
+
+![](Screenshots./password-policy-before.png)
+
+#### Password Policy After Changes
+
+![](Screenshots./password-policy-after.png)
+
 - Assigned users to appropriate groups
 - Demonstrated how group membership controls access
 
