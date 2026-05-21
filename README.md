@@ -1,5 +1,16 @@
 # Active Directory IT Support Project
 
+## Active Directory Console
+![ADUC](Screenshots./Active-directory-users-and-computer-console.png)
+
+## Skills Demonstrated
+- Active Directory Administration
+- Group Policy Management
+- User & Computer Account Management
+- Access Control & Delegation
+- Password & Account Security
+- Windows Administration
+- 
 ## Overview
 This project demonstrates foundational Active Directory skills used in IT support roles. It focuses on user account management, group-based access control, and troubleshooting common issues in a Windows environment.
 
@@ -12,9 +23,6 @@ This project reinforces prior experience supporting users and systems by applyin
 - Active Directory concepts
 - Command Prompt
 - TryHackMe platform
-
-## Active Directory Console
-![ADUC](Screenshots./Active-directory-users-and-computer-console.png)
 
 ---
 ## Organizational Unit (OU) Management
@@ -132,6 +140,20 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ![](Screenshots./restrict-control-panel-gpo-linked.png)
 
+### ⏱️ Scenario: Automatic Screen Lock After Inactivity
+- Created and configured a Group Policy Object (GPO) to automatically lock inactive sessions
+- Applied inactivity timeout settings to improve workstation and server security
+- Linked the policy to the root domain for centralized enforcement
+- Reduced the risk of unattended and exposed user sessions
+
+#### Screen Lock Policy Configuration
+
+![](Screenshots/screen-lock-policy-enabled.png)
+
+#### GPO Linked to Root Domain
+
+![](Screenshots/screen-lock-gpo-linked.png)
+
 - Assigned users to appropriate groups
 - Demonstrated how group membership controls access
 
@@ -154,12 +176,6 @@ This project reinforces prior experience supporting users and systems by applyin
 #### Disable Computer Account
 ![](Screenshots./disable-computer-account.png)
 
-## Troubleshooting Scenarios
-- User unable to log in
-- Account locked out
-- Access denied to shared resources
-
----
 
 ## Key Takeaways
 - Active Directory is used to manage users, computers, and permissions
@@ -168,5 +184,3 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ---
 
-## Screenshots
-(Add your lab screenshots here)
