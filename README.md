@@ -2,6 +2,11 @@
 
 ## Active Directory Console
 ![ADUC](Screenshots./Active-directory-users-and-computer-console.png)
+  
+## Overview
+This project demonstrates foundational Active Directory skills used in IT support roles. It focuses on user account management, group-based access control, and troubleshooting common issues in a Windows environment.
+
+This project reinforces prior experience supporting users and systems by applying Active Directory concepts in a hands-on lab environment.
 
 ## Skills Demonstrated
 - Active Directory Administration
@@ -10,11 +15,6 @@
 - Access Control & Delegation
 - Password & Account Security
 - Windows Administration
-- 
-## Overview
-This project demonstrates foundational Active Directory skills used in IT support roles. It focuses on user account management, group-based access control, and troubleshooting common issues in a Windows environment.
-
-This project reinforces prior experience supporting users and systems by applying Active Directory concepts in a hands-on lab environment.
 
 ---
 
