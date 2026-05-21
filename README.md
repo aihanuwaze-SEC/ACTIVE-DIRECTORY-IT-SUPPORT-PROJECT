@@ -105,6 +105,20 @@ This project reinforces prior experience supporting users and systems by applyin
 
 ![](Screenshots./password-policy-after.png)
 
+### 🔒 Scenario: Account Lockout Policy
+
+- Configured Group Policy settings to lock user accounts after multiple failed login attempts
+- Applied lockout threshold, lockout duration, and reset counter policies
+- Verified policy enforcement through successful account lockout behavior during login attempts
+
+#### Account Lockout Policy Configuration
+
+![](Screenshots./account-lockout-policy.png)
+
+#### Account Lockout Triggered
+
+![](Screenshots./account-lockout-error.png)
+
 - Assigned users to appropriate groups
 - Demonstrated how group membership controls access
 
