@@ -17,6 +17,15 @@ This project reinforces prior experience supporting users and systems by applyin
 - Windows Administration
 
 ---
+## Lab Environment
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- Group Policy Management Console (GPMC)
+- Windows PowerShell
+- Remote Desktop Protocol (RDP)
+- TryHackMe Windows Domain Lab
+  
+---
 
 ## Tools & Environment
 - Windows Virtual Machine
